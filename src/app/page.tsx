@@ -20,10 +20,10 @@ export default function Component() {
             />
             <div className="space-y-2">
               <h1 className="text-4xl font-bold tracking-tighter sm:text-5xl md:text-6xl">
-                Coreboot
+                coreboot
               </h1>
               <p className="max-w-[700px] text-gray-500 md:text-xl dark:text-gray-400">
-                Coreboot is a free and open-source firmware that replaces the
+                coreboot is a free and open-source firmware that replaces the
                 proprietary BIOS, providing a more secure and customizable
                 alternative.
               </p>
@@ -202,7 +202,7 @@ export default function Component() {
               Community
             </h2>
             <p className="max-w-[700px] text-gray-500 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed dark:text-gray-400">
-              Connect with the Coreboot community and stay up-to-date with the
+              Connect with the coreboot community and stay up-to-date with the
               latest news and events.
             </p>
           </div>
@@ -242,7 +242,7 @@ export default function Component() {
               <div className="flex items-center justify-between rounded-md bg-white px-4 py-2 shadow-sm transition-colors hover:bg-gray-100 hover:text-gray-900 focus:bg-gray-100 focus:text-gray-900 focus:outline-none disabled:pointer-events-none disabled:opacity-50 dark:bg-gray-950 dark:hover:bg-gray-800 dark:hover:text-gray-50 dark:focus:bg-gray-800 dark:focus:text-gray-50">
                 <div className="space-y-1">
                   <h4 className="text-sm font-semibold">
-                    Coreboot Conference 2023
+                    coreboot Conference 2023
                   </h4>
                   <p className="text-sm text-gray-500 dark:text-gray-400">
                     September 15-17, 2023 - San Francisco, CA
@@ -252,7 +252,7 @@ export default function Component() {
               </div>
               <div className="flex items-center justify-between rounded-md bg-white px-4 py-2 shadow-sm transition-colors hover:bg-gray-100 hover:text-gray-900 focus:bg-gray-100 focus:text-gray-900 focus:outline-none disabled:pointer-events-none disabled:opacity-50 dark:bg-gray-950 dark:hover:bg-gray-800 dark:hover:text-gray-50 dark:focus:bg-gray-800 dark:focus:text-gray-50">
                 <div className="space-y-1">
-                  <h4 className="text-sm font-semibold">Coreboot Meetup</h4>
+                  <h4 className="text-sm font-semibold">coreboot Meetup</h4>
                   <p className="text-sm text-gray-500 dark:text-gray-400">
                     October 12, 2023 - Online
                   </p>
