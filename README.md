@@ -1,17 +1,43 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Features
+
+- [ ] Links to https://blogs.coreboot.org/
+- [ ] Includes https://www.coreboot.org/calendar.html
+- [ ] Links to https://doc.coreboot.org/
+- [ ] Links to https://review.coreboot.org/
+- [ ] Has a download page https://www.coreboot.org/downloads.html
+- [ ] Has a better jobboard page https://www.coreboot.org/jobs.html
+- [ ] Links to https://ticket.coreboot.org/
+- [ ] Has a licensed consulting providers page https://www.coreboot.org/consulting.html
+- [ ] Has a vendors/OEMS/ODMS page https://www.coreboot.org/vendors.html https://doc.coreboot.org/distributions.html
+- [ ] coreboot is a member of the [Software Freedom Conservancy](https://sfconservancy.org/)
+- [ ] Has a donations page https://www.coreboot.org/donate.html
+- [ ] General inquiries about coreboot can be brought up on our mailing list coreboot@coreboot.org
+- [ ] To report security issues privately, please send an email to security@coreboot.org
+- [ ] security.txt?
+- [ ] Include https://www.coreboot.org/developers.html or link to an equivalent docs page
+- [ ] Include https://www.coreboot.org/users.html or link to an equivalent docs page
+- [ ] List coreboot users on front page
+- [ ] Link to mailing list https://mail.coreboot.org/
+
+- social media
+  - [ ] matrix https://matrix.to/#/#coreboot:matrix.org
+  - [ ] IRC ircs://irc.libera.chat/#coreboot
+  - [ ] discord https://discord.com/invite/JqT8NM5Zbg
+  - [ ] slack https://slack.osfw.dev/
+  - [ ] twitch https://www.twitch.tv/coreboot_org
+  - [ ] mastodon https://fosstodon.org/@coreboot
+  - [ ] linkedin https://www.linkedin.com/company/coreboot
+  - [ ] github https://github.com/coreboot
+  - [ ] Reddit https://www.reddit.com/r/coreboot
+
 ## Getting Started
 
 First, run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
